@@ -16,4 +16,3 @@
     14-Turn the file content to 1st caps
     15-SAVE
     16-Open another file
-    17-EXIT
