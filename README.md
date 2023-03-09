@@ -1,5 +1,6 @@
 # Text-Editor
  Functionality:
+ 
     1-Add new text to the end of the file
     2-Display content of the text file
     3-Empty File
